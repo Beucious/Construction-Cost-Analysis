@@ -8,7 +8,7 @@ A cost variance analysis dashboard built in Excel (Google Sheets) across 17 acti
 
 ## Project Summary
 
-This project analyses budgeted vs actual construction costs across 50 line items spanning Labour, Materials, and Equipment categories. The goal was to identify cost overruns, spot spending trends, and present findings in a clean, decision-ready dashboard.
+This project analyses budgeted vs actual construction costs across 51 line items spanning Labour, Materials, and Equipment categories. The goal was to identify cost overruns, spot spending trends, and present findings in a clean, decision-ready dashboard.
 
 ---
 
