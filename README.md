@@ -2,7 +2,6 @@
 
 A cost variance analysis dashboard built in Excel (Google Sheets) across 17 active construction and infrastructure projects in Lagos, Nigeria.
 
-![Dashboard Preview]([dashboard_screenshot.png](https://github.com/Beucious/Construction-Cost-Analysis/blob/main/dashboard%20screenshot.png))
 
 ---
 
